@@ -1,1 +1,1 @@
-## Simple CLI Calculator written in c.
+## Simple CLI Calculator written in c
